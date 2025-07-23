@@ -1,0 +1,16 @@
+.text-uaa-blue {
+    color: #1e3a8a;
+}
+
+.bg-uaa-blue {
+    background-color: #1e3a8a;
+}
+
+.hover\:bg-uaa-blue\/90:hover {
+    background-color: rgba(30, 58, 138, 0.9);
+}
+
+.btn-hover-uaa:hover {
+    background-color: #1e3a8a;
+    color: white;
+}
